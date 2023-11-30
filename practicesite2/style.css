@@ -1,0 +1,48 @@
+p{
+	font-family:'Times New Roman';
+	font-weight: 200;
+	text-indent: 30px;
+}
+
+.firstp{
+	font-family:'Times New Roman';
+	font-weight: 200;
+	text-indent: 30px;
+	font-size: 18px;
+   
+}
+
+.firstp:hover{
+	color: darkred;
+    transition-property: color;
+    transition-duration: 1s;
+}
+
+.fit-picture{
+	border-radius:12%;
+	height:60%;
+	width:90%;
+}
+
+section{
+	border-style:double;
+	width: 40%;
+}
+
+aside{
+  width: 20%;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-right: 20%;
+  float: right;
+  background-color: lightgray;
+}
+
+article{
+	padding-left: 2%;
+    padding-right: 2%;
+	margin-right: 5%;
+	margin-left: 5%;
+	background-color: #F0F0F0;
+	border-style:solid;
+}
